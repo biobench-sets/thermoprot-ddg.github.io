@@ -1,0 +1,129 @@
+	:%s<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Benchmark Datasets for Bioinformatic Applications">
+    <meta name="Keywords" content="biobench-sets, Biomolecules, Folding, Disease, Protein,
+    Emidio, Capriotti, Variant, Mutation, Predict, RNA, Structure, Machine Learning,
+    Bioinformatics, University, Bologna, SNP, genome, interpretation">  
+    <meta name="author" content="BioBench Sets - Emidio Capriotti">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>ThermoProt DDG: Testing the prediction of DDG upon protein mutation</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../pages/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug 
+    <link href="pages/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    -->
+
+    <!-- Custom styles for this template -->
+    <link href="../pages/style/jumbotron-narrow-biofold.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]
+    <script src="pages/assets/js/ie-emulation-modes-warning.js"></script>
+    -->
+
+    
+	   
+  </head>
+
+  <body >
+    <br>
+    <div class="container">
+
+      <div class="jumbotron">
+        <table width="100%">
+        <tr>
+        <td width="90%">
+        <div class='biofold' ><span style="color:#c31e27;">Thermo</span><span style="color:#4689a3;">Prot DDG</span></div><br>
+	</td>
+	<td width="10%">
+	<div class="right_cell">
+        <a href="http://biobench-sets.github.io">
+        <img src="../pages/img/biobench.png" width="75px" align="left">
+        </a>
+        </div>
+	</td>
+	</tr>
+	</table>
+
+	<table width="100%">
+        <tr>
+        <td>
+        <div class="form-inline justify-content-center">
+        <nav>
+          <ul class="nav nav-pills">
+            <li role="presentation" class="active" ><a href="#">Home</a></li>
+            <li role="presentation" ><a href="https://github.com/biobench-sets/thermo-prot-ddg">GitHub</a></li>
+          </ul>
+        </nav>
+        </div>
+        </td>
+        </tr>
+        </table>
+        <br>
+  	<br>
+  	<div class="text">
+     <h4 class="title" >BROOM</h4>
+     </div>	
+          <p class="text-small" >
+		Broom dataset is composed by 605 mutations from 58 structures corresponding to 50 clusters.
+                This dataset contains 53 mutations from non-native proteins and 59 mutations
+                referring to fragment of the protein. Data from
+                <a href="https://pubmed.ncbi.nlm.nih.gov/28710274" target=blank>PMID:28710274</a>.
+  <br>
+  <br>
+  <br>
+	<p class="text-small" >
+	<div id='table-container'></div>
+    <br>
+    <br>
+    <div class='footer-ok'><div>
+
+      </div>
+    </div> <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug
+    <script src="pages/assets/js/ie10-viewport-bug-workaround.js"></script>
+    -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" charset="utf8" src="../src/DataTables-1.10.1/media/js/jquery.js"></script>
+    <script type="text/javascript" charset="utf8" src="../src/DataTables-1.10.1/media/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="../src/csv-to-table/jquery.csv.min.js"></script>
+    <script type="text/javascript" src="../src/csv-to-table/csv_to_html_table.js"></script>
+    <link rel="stylesheet" type="text/css" href="../src/DataTables-1.10.1/media/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="../src/DataTables-1.10.1/media/css/jquery.dataTables.extra.css">
+
+
+    <script type="text/javascript">
+      function format_link(link){
+        if (link) {
+	  var rcsb = "https://www.rcsb.org/structure/";
+          return "<a href='" + rcsb + link + "' target='_blank'>" + link + "</a>";
+	  }
+        else
+          return "";
+      }
+
+      CsvToHtmlTable.init({
+        csv_path: '../data/broom.csv',
+        element: 'table-container', 
+        allow_download: true,
+        csv_options: {separator: ',', delimiter: '"'},
+        datatables_options: {"paging": true},
+        custom_formatting: [[1, format_link]]
+      });
+
+    </script>
+
+  </body>
+</html>
