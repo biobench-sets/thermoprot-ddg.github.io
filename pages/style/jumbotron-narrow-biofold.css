@@ -182,6 +182,12 @@ table.radio: td {
  font-weight: 500;
 }
 
+.subtitle {
+ line-height: 50%;
+ color:#4689a3;
+ font-weight:400;
+ font-size:18px;
+}
 
 table.dataTable tbody tr.even-row{
     background-color:#eeeeee;
