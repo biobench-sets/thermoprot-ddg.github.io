@@ -179,13 +179,13 @@ table.radio: td {
 .biofold {
  font-size:3.5em;
  text-align:left;
- font-weight: 400;
+ font-weight: 500;
 }
 
 .biofold br {
- content: "";
+ content: " ";
  display: block;
- line-height: 1px;
+ line-height: 10%;
 }
 
 table.dataTable tbody tr.even-row{
