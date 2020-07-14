@@ -54,7 +54,7 @@ CsvToHtmlTable = {
                 $table.DataTable(datatables_options);
 
                 if (allow_download) {
-                    $containerElement.append("<br><p align='left'><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download CSV</a> <a class='btn btn-info' href='" + json_path + "'><i class='glyphicon glyphicon-download'></i> Show JSON</a></p>");
+                    $containerElement.append("<br><p align='left'><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
             });
     }

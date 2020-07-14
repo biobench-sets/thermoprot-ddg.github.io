@@ -60,7 +60,8 @@
           <ul class="nav nav-pills">
             <li role="presentation" class="active" ><a href="#">Home</a></li>
 	    <li role="presentation" ><a href="../data/vb1432.csv">CSV</a></li>
-            <li role="presentation" ><a href="../json/vb1432.json">JSON</a></li>
+	    <li role="presentation" ><a href="../data/vb1432.tsv">TSV</a></li>
+            <li role="presentation" ><a href="../data/vb1432.json">JSON</a></li>
             <li role="presentation" ><a href="https://github.com/thermoprot-ddg/thermoprot-ddg">GitHub</a></li>
           </ul>
         </nav>
@@ -120,7 +121,7 @@
         csv_path: '../data/vb1432.csv',
 	json_path: '../json/vb1432.json',
         element: 'table-container', 
-        allow_download: true,
+        allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": true, 
 			     "lengthMenu": [[10, 25, 50, 100, -1],
