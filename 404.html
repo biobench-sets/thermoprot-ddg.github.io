@@ -12,7 +12,7 @@
     <meta name="author" content="BioBench Sets - Emidio Capriotti">
     <link rel="icon" href="/favicon.ico">
 
-    <title>ThermoProt-DDG: Testing the prediction of DDG upon protein mutation</title>
+    <title>ProtDDG-Bench: Benchmarking resource for predictors of protein stability change</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/pages/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -41,12 +41,18 @@
         <table width="100%">
         <tr>
         <td width="90%">
-        <div class='biofold' ><span style="color:#c31e27;">Thermo</span><span style="color:#4689a3;">Prot-DDG</span></div><br>
+        <div class='biofold' ><span style="color:#c31e27;"></span><span style="color:#4689a3;">ProtDDG-Bench</span>
+	<p class="subtitle">
+	<br>
+        Benchmarking resource for predictors of protein stability change
+	<br><br><br>
+        </p>
+        </div>
 	</td>
 	<td width="10%">
 	<div class="right_cell">
-        <a href="http://thermoprot-ddg.githum.io">
-        <img src="/pages/img/biobench.png" width="75px" align="left">
+        <a href="http://protddg-bench.github.io">
+        <img src="/pages/img/biobench.png" width="100px" align="left">
         </a>
         </div>
 	</td>
@@ -60,7 +66,14 @@
         <nav>
           <ul class="nav nav-pills">
             <li role="presentation" class="active" ><a href="#">Home</a></li>
-            <li role="presentation" ><a href="https://github.com/thermoprot-ddg/thermoprot-ddg">GitHub</a></li>
+	    <li role="presentation" ><a href="/vb1432">VB1432</a></li>
+	    <li role="presentation" ><a href="/s2648">S2648</a></li>
+	    <li role="presentation" ><a href="/ssym">SSYM</a></li>
+	    <li role="presentation" ><a href="/broom">Broom</a></li>
+	    <li role="presentation" ><a href="/myoglobin">Myoglobin</a></li>
+	    <li role="presentation" ><a href="/p53">P53</a></li>
+	    <li role="presentation" ><a href="/ptmul">PTMUL</a></li>
+            <li role="presentation" ><a href="https://github.com/protddg-bench/protddg-bench">GitHub</a></li>
           </ul>
         </nav>
         </div>
@@ -74,8 +87,8 @@
      </div>	
           <p class="text-small" >
 		All the datasets for testing the performance of the predictors of DDG upon mutation are available at
-		the <a href="https://github.com/thermoprot-ddg/thermoprot-ddg" target=blank>thermoprot-ddg</a> repository.
-		The thermoprot-ddg repository includes the following datasets:
+		the <a href="https://github.com/protddg-bench/protddg-bench" target=blank>protddg-bench</a> repository.
+		The protddg-bench repository includes the following datasets:
 		<br><br>
 		<ul>
                 <li>
@@ -208,7 +221,8 @@
 	</div>
 
         <p class="text-small" >
-	The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains.
+	The file <a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/cluster-545-pdbchains.txt" target=blank>cluster-545-pdbchains.txt</a> 
+	contains 132 clusters of 545 PDB chains.
 	The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 	<br>
 	<br>
@@ -220,9 +234,11 @@
         <p class="text-small" >
 	To test your method you need to:
 	<p class="text-small" >
-	1. replace the file scripts/predict-ddg-value.py with your own script that runs taking
+	1. replace the file 
+        <a href="https://github.com/protddg-bench/protddg-bench/blob/master/scripts/predict-ddg-value.py">predict-ddg-value.py</a> 
+        with your own script that runs taking
      	in input only the testing and training files and returning in standard output
-     	the experimental and the predicted ddgs respectively
+     	the experimental and the predicted DDGs respectively
 	The program runs as follows:
 	<br>
         <br>
@@ -233,7 +249,8 @@
 	2. Generate an inputfile containing a two columns representing the PDB chain
 	identifier and the mutation followed by all the inputfeatures.
 	The full list of mutations are reported in the file data/unique-mutations-input.txt
-     	and example of input file with two input features is data/ifeatures-KYTJ820101-BASU050101.txt.
+     	and example of input file with two input features is 
+	<a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/ifeatures-KYTJ820101-BASU050101.txt" target=blank>ifeatures-KYTJ820101-BASU050101.txt</a>.
   	Finally run ./test.py input_feature_file.txt to score the performace of your method.
 	For example runs:
 	<br>
