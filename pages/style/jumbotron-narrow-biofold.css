@@ -185,6 +185,7 @@ table.radio: td {
 .biofold br {
  content: " ";
  display: block;
+ margin-top: 0;
  line-height: 10%;
 }
 
