@@ -51,7 +51,7 @@
 	</td>
 	<td width="10%">
 	<div class="right_cell">
-        <a href="http://thermoprot-ddg.githum.io">
+        <a href="http://protddg-bench.githum.io">
         <img src="/pages/img/biobench.png" width="100px" align="left">
         </a>
         </div>
@@ -73,7 +73,7 @@
 	    <li role="presentation" ><a href="/myoglobin">Myoglobin</a></li>
 	    <li role="presentation" ><a href="/p53">P53</a></li>
 	    <li role="presentation" ><a href="/ptmul">PTMUL</a></li>
-            <li role="presentation" ><a href="https://github.com/thermoprot-ddg/thermoprot-ddg">GitHub</a></li>
+            <li role="presentation" ><a href="https://github.com/protddg-bench/protddg-bench">GitHub</a></li>
           </ul>
         </nav>
         </div>
@@ -87,8 +87,8 @@
      </div>	
           <p class="text-small" >
 		All the datasets for testing the performance of the predictors of DDG upon mutation are available at
-		the <a href="https://github.com/thermoprot-ddg/thermoprot-ddg" target=blank>thermoprot-ddg</a> repository.
-		The thermoprot-ddg repository includes the following datasets:
+		the <a href="https://github.com/protddg-bench/protddg-bench" target=blank>protddg-bench</a> repository.
+		The protddg-bench repository includes the following datasets:
 		<br><br>
 		<ul>
                 <li>
@@ -221,7 +221,7 @@
 	</div>
 
         <p class="text-small" >
-	The file <a href="https://github.com/thermoprot-ddg/thermoprot-ddg/blob/master/data/cluster-545-pdbchains.txt" target=blank>cluster-545-pdbchains.txt</a> 
+	The file <a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/cluster-545-pdbchains.txt" target=blank>cluster-545-pdbchains.txt</a> 
 	contains 132 clusters of 545 PDB chains.
 	The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 	<br>
@@ -235,7 +235,7 @@
 	To test your method you need to:
 	<p class="text-small" >
 	1. replace the file 
-        <a href="https://github.com/thermoprot-ddg/thermoprot-ddg/blob/master/scripts/predict-ddg-value.py">predict-ddg-value.py</a> 
+        <a href="https://github.com/protddg-bench/protddg-bench/blob/master/scripts/predict-ddg-value.py">predict-ddg-value.py</a> 
         with your own script that runs taking
      	in input only the testing and training files and returning in standard output
      	the experimental and the predicted DDGs respectively
@@ -250,7 +250,7 @@
 	identifier and the mutation followed by all the inputfeatures.
 	The full list of mutations are reported in the file data/unique-mutations-input.txt
      	and example of input file with two input features is 
-	<a href="https://github.com/thermoprot-ddg/thermoprot-ddg/blob/master/data/ifeatures-KYTJ820101-BASU050101.txt" target=blank>ifeatures-KYTJ820101-BASU050101.txt</a>.
+	<a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/ifeatures-KYTJ820101-BASU050101.txt" target=blank>ifeatures-KYTJ820101-BASU050101.txt</a>.
   	Finally run ./test.py input_feature_file.txt to score the performace of your method.
 	For example runs:
 	<br>
