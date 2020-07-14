@@ -1,8 +1,8 @@
-# Datasets for scoring the methods for predicting the DDG upon protein mutation.
+## Benchmarking resource for predictors of protein stability change.
 
 All the datasets for testing the performance of the predictors of DDG upon mutation are available at
-the [thermo-prot-ddg](https://github.com/biobench-sets/thermo-prot-ddg) repository.
-The thermo-prot-ddg repository includes the following datasets:
+the [protddg-bench](https://github.com/protddg-bench/protddg-bench) repository.
+The protddg-bench repository includes the following datasets:
 
 1. VB1432:    1432 variants from 79 protein structures corresponding to 65 clusters.
               9 mutations have double experimental data. 1 mutation is not mapping 
@@ -21,7 +21,7 @@ The thermo-prot-ddg repository includes the following datasets:
               PMID:31266447.
 
 
-## Datasets files
+### Datasets files
 
 - The directory S2648 and VB1432 contains 10 files for 10-folds cross-validation tests.
   Furthermore, the cross-validation subset of S2648 and VB1432 are consistent. This means that 
@@ -73,13 +73,13 @@ The thermo-prot-ddg repository includes the following datasets:
          Training: not SET_i train-s2648-test-ptmul.tsv  -> Test: SET_i ptmul-5fold.tsv
 
 
-## Clustering
+### Clustering
 
 The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains. 
 The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 
 
-## Testing
+### Testing
 
 To test your method you need to:
   1. replace the file scripts/predict-ddg-value.py with your own script that runs taking 
