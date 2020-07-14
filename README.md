@@ -86,7 +86,9 @@ To test your method you need to:
      in input only the testing and training files and returning in standard output 
      the experimental and the predicted ddgs respectively
      The program runs as follows:
+
         predict-ddg-value.py test_file.txt train_file.txt
+
   2. Generate an inputfile containing a two columns representing the PDB chain 
      identifier and the mutation followed by all the inputfeatures.
      The full list of mutations are reported in the file data/unique-mutations-input.txt
@@ -95,4 +97,4 @@ To test your method you need to:
   Finally run ./test.py input_feature_file.txt to score the performace of your method.
   For example runs:
 
-     ./test.py data/ifeatures-KYTJ820101-BASU050101.txt
+        ./test.py data/ifeatures-KYTJ820101-BASU050101.txt
