@@ -182,12 +182,6 @@ table.radio: td {
  font-weight: 500;
 }
 
-.biofold br {
- content: " ";
- display: block;
- margin-top: 0;
- line-height: 10%;
-}
 
 table.dataTable tbody tr.even-row{
     background-color:#eeeeee;
