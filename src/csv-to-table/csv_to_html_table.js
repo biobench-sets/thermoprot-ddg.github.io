@@ -4,6 +4,7 @@ CsvToHtmlTable = {
     init: function (options) {
         options = options || {};
         var csv_path = options.csv_path || "";
+        var json_path = options.json_path || "";
         var el = options.element || "table-container";
         var allow_download = options.allow_download || false;
         var csv_options = options.csv_options || {};
@@ -53,7 +54,7 @@ CsvToHtmlTable = {
                 $table.DataTable(datatables_options);
 
                 if (allow_download) {
-                    $containerElement.append("<br><p align='left'><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
+                    $containerElement.append("<br><p align='left'><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a> <p align='left'><a class='btn btn-info' href='" + json_path + "'><i class='glyphicon glyphicon-download'></i> Download as JSON</a></p>");
                 }
             });
     }
