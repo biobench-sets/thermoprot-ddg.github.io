@@ -182,9 +182,11 @@ table.radio: td {
  font-weight: 400;
 }
 
-.br-small {
-        line-height: 1px;
-          }
+.biofold br {
+ content: "";
+ display: block;
+ line-height: 1px;
+}
 
 table.dataTable tbody tr.even-row{
     background-color:#eeeeee;
