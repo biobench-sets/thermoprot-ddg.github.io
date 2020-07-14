@@ -179,8 +179,12 @@ table.radio: td {
 .biofold {
  font-size:3.5em;
  text-align:left;
- font-weight: bold;
+ font-weight: 400;
 }
+
+.br-small {
+        line-height: 16px;
+          }
 
 table.dataTable tbody tr.even-row{
     background-color:#eeeeee;
