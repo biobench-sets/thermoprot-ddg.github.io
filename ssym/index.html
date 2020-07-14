@@ -59,6 +59,9 @@
         <nav>
           <ul class="nav nav-pills">
             <li role="presentation" class="active" ><a href="#">Home</a></li>
+	    <li role="presentation" ><a href="../data/ssym.csv">CSV</a></li>
+            <li role="presentation" ><a href="../data/ssym.tsv">TSV</a></li>
+            <li role="presentation" ><a href="../data/ssym.json">JSON</a></li>
             <li role="presentation" ><a href="https://github.com/thermoprot-ddg/thermoprot-ddg">GitHub</a></li>
           </ul>
         </nav>
@@ -116,7 +119,7 @@
       CsvToHtmlTable.init({
         csv_path: '../data/ssym.csv',
         element: 'table-container', 
-        allow_download: true,
+        allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
 	datatables_options: {"paging": true,
                              "lengthMenu": [[10, 25, 50, 100, -1],

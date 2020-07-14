@@ -59,6 +59,9 @@
         <nav>
           <ul class="nav nav-pills">
             <li role="presentation" class="active" ><a href="#">Home</a></li>
+	    <li role="presentation" ><a href="../data/myoglobin.csv">CSV</a></li>
+            <li role="presentation" ><a href="../data/myoglobin.tsv">TSV</a></li>
+            <li role="presentation" ><a href="../data/myoglobin.json">JSON</a></li>
             <li role="presentation" ><a href="https://github.com/thermoprot-ddg/thermoprot-ddg">GitHub</a></li>
           </ul>
         </nav>
@@ -114,7 +117,7 @@
       CsvToHtmlTable.init({
         csv_path: '../data/myoglobin.csv',
         element: 'table-container', 
-        allow_download: true,
+        allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": true},
         custom_formatting: [[1, format_link]]
