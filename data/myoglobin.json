@@ -3,938 +3,938 @@
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F64H", 
-    "DDG": "-1.51"
+    "MUT": "I28A", 
+    "DDG": "-2.06"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A129G", 
-    "DDG": "-1.05"
+    "MUT": "L29A", 
+    "DDG": "-0.39"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "L64H", 
-    "DDG": "-1.05"
+    "MUT": "I30A", 
+    "DDG": "-1.9"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "M142I", 
-    "DDG": "-0.93"
+    "MUT": "L32A", 
+    "DDG": "-2.04"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "G109E", 
-    "DDG": "-0.89"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F68V", 
-    "DDG": "-0.82"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F64H", 
-    "DDG": "-0.81"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A66V", 
-    "DDG": "-0.75"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L142I", 
-    "DDG": "-0.63"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L64H", 
-    "DDG": "-0.61"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L125A", 
-    "DDG": "-0.60"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A88P", 
-    "DDG": "-0.59"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A64H", 
-    "DDG": "-0.58"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F107I", 
-    "DDG": "-0.58"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Y64H", 
+    "MUT": "H24V", 
     "DDG": "-0.52"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "G8Q", 
-    "DDG": "-0.50"
+    "MUT": "H36Q", 
+    "DDG": "-1.3"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A64H", 
-    "DDG": "-0.49"
+    "MUT": "H48Q", 
+    "DDG": "-0.62"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "W64H", 
-    "DDG": "-0.47"
+    "MUT": "H64Q", 
+    "DDG": "-0.45"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "L68V", 
-    "DDG": "-0.42"
+    "MUT": "H82Q", 
+    "DDG": "-0.05"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "L144A", 
-    "DDG": "-0.40"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F68V", 
-    "DDG": "-0.38"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "I64H", 
-    "DDG": "-0.38"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "V64H", 
-    "DDG": "-0.36"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "I68V", 
-    "DDG": "-0.35"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A44D", 
-    "DDG": "-0.25"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q67T", 
-    "DDG": "-0.23"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "T64H", 
-    "DDG": "-0.23"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A77K", 
-    "DDG": "-0.20"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F67T", 
-    "DDG": "-0.19"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A116H", 
-    "DDG": "-0.16"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F107I", 
-    "DDG": "-0.12"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "M29L", 
-    "DDG": "-0.12"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L15A", 
-    "DDG": "-0.10"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "G93H", 
-    "DDG": "-0.04"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "V28I", 
-    "DDG": "-0.04"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q64H", 
-    "DDG": "-0.02"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A13V", 
-    "DDG": "0.00"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "M69L", 
-    "DDG": "0.00"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "I69L", 
-    "DDG": "0.02"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "G64H", 
+    "MUT": "H93G", 
     "DDG": "0.04"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A133K", 
-    "DDG": "0.05"
+    "MUT": "H97Q", 
+    "DDG": "-0.11"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Q82H", 
-    "DDG": "0.05"
+    "MUT": "H113Q", 
+    "DDG": "-0.26"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F32L", 
-    "DDG": "0.07"
+    "MUT": "H119F", 
+    "DDG": "-0.68"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "W68V", 
-    "DDG": "0.07"
+    "MUT": "G129A", 
+    "DDG": "1.05"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "R64H", 
-    "DDG": "0.08"
+    "MUT": "V66A", 
+    "DDG": "0.75"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A122D", 
-    "DDG": "0.10"
+    "MUT": "P88A", 
+    "DDG": "0.59"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V69L", 
-    "DDG": "0.10"
+    "MUT": "H116A", 
+    "DDG": "0.16"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Q97H", 
-    "DDG": "0.11"
+    "MUT": "V13A", 
+    "DDG": "-0.67"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V142I", 
-    "DDG": "0.12"
+    "MUT": "T67A", 
+    "DDG": "-0.26"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F29L", 
-    "DDG": "0.13"
+    "MUT": "S117A", 
+    "DDG": "-0.26"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A60D", 
-    "DDG": "0.15"
+    "MUT": "L11A", 
+    "DDG": "-0.44"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A109E", 
-    "DDG": "0.17"
+    "MUT": "L9A", 
+    "DDG": "-0.41"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Y68V", 
-    "DDG": "0.17"
+    "MUT": "G23A", 
+    "DDG": "-1.12"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A117S", 
-    "DDG": "0.26"
+    "MUT": "L137A", 
+    "DDG": "-1.78"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A67T", 
-    "DDG": "0.26"
+    "MUT": "V114A", 
+    "DDG": "-1.45"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Q113H", 
-    "DDG": "0.26"
+    "MUT": "T51A", 
+    "DDG": "-1.41"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F28I", 
-    "DDG": "0.28"
+    "MUT": "L149A", 
+    "DDG": "-1.6"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A137L", 
-    "DDG": "0.30"
+    "MUT": "I142A", 
+    "DDG": "-1.92"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "N64H", 
-    "DDG": "0.33"
+    "MUT": "Q8A", 
+    "DDG": "-0.89"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A140K", 
-    "DDG": "0.35"
+    "MUT": "Q8G", 
+    "DDG": "0.5"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A4E", 
-    "DDG": "0.35"
+    "MUT": "E109A", 
+    "DDG": "-0.17"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A56K", 
-    "DDG": "0.35"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A29L", 
-    "DDG": "0.39"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A9L", 
-    "DDG": "0.41"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A107I", 
-    "DDG": "0.43"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A11L", 
-    "DDG": "0.44"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A139R", 
-    "DDG": "0.45"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q64H", 
-    "DDG": "0.45"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A32L", 
-    "DDG": "0.47"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A20D", 
-    "DDG": "0.50"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "V24H", 
-    "DDG": "0.52"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A28I", 
-    "DDG": "0.53"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "W32L", 
-    "DDG": "0.53"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q64H", 
-    "DDG": "0.54"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L28I", 
-    "DDG": "0.55"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "M28I", 
-    "DDG": "0.56"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "T68V", 
-    "DDG": "0.57"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A11L", 
-    "DDG": "0.60"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A68V", 
-    "DDG": "0.60"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "T68V", 
-    "DDG": "0.60"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q48H", 
-    "DDG": "0.62"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "L111I", 
-    "DDG": "0.64"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A118R", 
-    "DDG": "0.65"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A13V", 
-    "DDG": "0.67"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "F119H", 
-    "DDG": "0.68"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A106F", 
-    "DDG": "0.70"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "M135L", 
-    "DDG": "0.79"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "I49L", 
-    "DDG": "0.80"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "Q36H", 
-    "DDG": "0.80"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "P67T", 
-    "DDG": "0.85"
-  }, 
-  {
-    "CLID": "1BVCA", 
-    "PDB": "1BZ6", 
-    "CHAIN": "A", 
-    "MUT": "A8Q", 
+    "MUT": "E109G", 
     "DDG": "0.89"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "I43F", 
-    "DDG": "0.89"
+    "MUT": "K140A", 
+    "DDG": "-0.35"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F7W", 
-    "DDG": "0.90"
+    "MUT": "L29F", 
+    "DDG": "-0.13"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "L130A", 
-    "DDG": "0.90"
+    "MUT": "L29N", 
+    "DDG": "-5.59"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A68V", 
+    "MUT": "F43V", 
+    "DDG": "-2.66"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "F43I", 
+    "DDG": "-0.89"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64Q", 
+    "DDG": "-0.54"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64A", 
+    "DDG": "0.58"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64L", 
+    "DDG": "1.05"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64F", 
+    "DDG": "1.51"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68F", 
+    "DDG": "0.82"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68A", 
+    "DDG": "-0.93"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68Q", 
+    "DDG": "-2.42"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68N", 
+    "DDG": "-3.81"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68S", 
+    "DDG": "-2.99"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68T", 
+    "DDG": "-1.67"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I107F", 
+    "DDG": "0.58"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I107V", 
+    "DDG": "-1.09"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I107T", 
+    "DDG": "-2.23"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28L", 
+    "DDG": "-0.55"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28M", 
+    "DDG": "-0.56"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28V", 
+    "DDG": "0.04"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28A", 
+    "DDG": "-1.33"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I111L", 
+    "DDG": "-0.64"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I111M", 
+    "DDG": "-1.14"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I111A", 
+    "DDG": "-1.84"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I142L", 
+    "DDG": "0.63"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I142M", 
     "DDG": "0.93"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A18E", 
-    "DDG": "0.95"
+    "MUT": "I142V", 
+    "DDG": "-0.12"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V107I", 
-    "DDG": "1.09"
+    "MUT": "I142A", 
+    "DDG": "-1.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A123F", 
-    "DDG": "1.10"
+    "MUT": "L29I", 
+    "DDG": "-1.12"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A142I", 
-    "DDG": "1.10"
+    "MUT": "L29M", 
+    "DDG": "0.12"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "F14W", 
-    "DDG": "1.10"
+    "MUT": "L29V", 
+    "DDG": "-1.72"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A23G", 
-    "DDG": "1.12"
+    "MUT": "L29A", 
+    "DDG": "-2.37"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "I29L", 
-    "DDG": "1.12"
+    "MUT": "L69I", 
+    "DDG": "-0.02"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "M111I", 
-    "DDG": "1.14"
+    "MUT": "L69M", 
+    "DDG": "-0.0"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A69L", 
-    "DDG": "1.18"
+    "MUT": "L69V", 
+    "DDG": "-0.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Q36H", 
-    "DDG": "1.30"
+    "MUT": "L69A", 
+    "DDG": "-1.18"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A28I", 
-    "DDG": "1.33"
+    "MUT": "L135I", 
+    "DDG": "-1.54"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A115L", 
-    "DDG": "1.40"
+    "MUT": "L135M", 
+    "DDG": "-0.79"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A51T", 
-    "DDG": "1.41"
+    "MUT": "L135V", 
+    "DDG": "-2.25"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A114V", 
-    "DDG": "1.45"
+    "MUT": "L49I", 
+    "DDG": "-0.8"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "I135L", 
-    "DDG": "1.54"
+    "MUT": "A130L", 
+    "DDG": "-2.3"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A149L", 
-    "DDG": "1.60"
+    "MUT": "A130K", 
+    "DDG": "-3.7"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "T68V", 
-    "DDG": "1.67"
+    "MUT": "F123T", 
+    "DDG": "-3.5"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A135L", 
-    "DDG": "1.70"
+    "MUT": "E4A", 
+    "DDG": "-0.35"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V29L", 
-    "DDG": "1.72"
+    "MUT": "K133A", 
+    "DDG": "-0.05"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A137L", 
-    "DDG": "1.78"
+    "MUT": "D122A", 
+    "DDG": "-0.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A111I", 
-    "DDG": "1.84"
+    "MUT": "E18A", 
+    "DDG": "-0.95"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A30I", 
-    "DDG": "1.90"
+    "MUT": "K77A", 
+    "DDG": "0.2"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A142I", 
-    "DDG": "1.92"
+    "MUT": "D20A", 
+    "DDG": "-0.5"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A32L", 
-    "DDG": "2.04"
+    "MUT": "R118A", 
+    "DDG": "-0.65"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A28I", 
-    "DDG": "2.06"
+    "MUT": "D44A", 
+    "DDG": "0.25"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "K123F", 
-    "DDG": "2.10"
+    "MUT": "D60A", 
+    "DDG": "-0.15"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "K130A", 
-    "DDG": "2.10"
+    "MUT": "K56A", 
+    "DDG": "-0.35"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A131M", 
-    "DDG": "2.20"
+    "MUT": "R139A", 
+    "DDG": "-0.45"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "T107I", 
-    "DDG": "2.23"
+    "MUT": "W7F", 
+    "DDG": "-0.9"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V135L", 
-    "DDG": "2.25"
+    "MUT": "W14F", 
+    "DDG": "-1.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "L130A", 
-    "DDG": "2.30"
+    "MUT": "M131A", 
+    "DDG": "-2.2"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "A29L", 
-    "DDG": "2.37"
+    "MUT": "F123K", 
+    "DDG": "-2.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "Q68V", 
-    "DDG": "2.42"
+    "MUT": "A130K", 
+    "DDG": "-2.1"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "V43F", 
-    "DDG": "2.66"
+    "MUT": "A130L", 
+    "DDG": "-0.9"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "S68V", 
-    "DDG": "2.99"
+    "MUT": "H36Q", 
+    "DDG": "-0.8"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "T123F", 
-    "DDG": "3.50"
+    "MUT": "V68T", 
+    "DDG": "-0.6"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "K130A", 
-    "DDG": "3.70"
+    "MUT": "V13A", 
+    "DDG": "-0.0"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "N68V", 
-    "DDG": "3.81"
+    "MUT": "L115A", 
+    "DDG": "-1.4"
   }, 
   {
     "CLID": "1BVCA", 
     "PDB": "1BZ6", 
     "CHAIN": "A", 
-    "MUT": "N29L", 
-    "DDG": "5.59"
+    "MUT": "F123A", 
+    "DDG": "-1.1"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L135A", 
+    "DDG": "-1.7"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L11A", 
+    "DDG": "-0.6"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "F106A", 
+    "DDG": "-0.7"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L137A", 
+    "DDG": "-0.3"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "A15L", 
+    "DDG": "0.1"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "A125L", 
+    "DDG": "0.6"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "A144L", 
+    "DDG": "0.4"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28A", 
+    "DDG": "-0.53"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I28F", 
+    "DDG": "-0.28"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L32W", 
+    "DDG": "-0.53"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L32A", 
+    "DDG": "-0.47"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "L32F", 
+    "DDG": "-0.07"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64F", 
+    "DDG": "0.81"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64A", 
+    "DDG": "0.49"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64W", 
+    "DDG": "0.47"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64Q", 
+    "DDG": "0.02"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64Y", 
+    "DDG": "0.52"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64L", 
+    "DDG": "0.61"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64I", 
+    "DDG": "0.38"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64V", 
+    "DDG": "0.36"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64T", 
+    "DDG": "0.23"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64N", 
+    "DDG": "-0.33"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64R", 
+    "DDG": "-0.08"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "H64G", 
+    "DDG": "-0.04"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "T67F", 
+    "DDG": "0.19"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "T67Q", 
+    "DDG": "0.23"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "T67P", 
+    "DDG": "-0.85"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68F", 
+    "DDG": "0.38"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68L", 
+    "DDG": "0.42"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68W", 
+    "DDG": "-0.07"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68I", 
+    "DDG": "0.35"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68A", 
+    "DDG": "-0.6"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68Y", 
+    "DDG": "-0.17"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "V68T", 
+    "DDG": "-0.57"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I107F", 
+    "DDG": "0.12"
+  }, 
+  {
+    "CLID": "1BVCA", 
+    "PDB": "1BZ6", 
+    "CHAIN": "A", 
+    "MUT": "I107A", 
+    "DDG": "-0.43"
   }
 ]
