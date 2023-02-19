@@ -1,296 +1,296 @@
 [
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Q104H", 
-    "DDG": "0.24"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Q104P", 
-    "DDG": "0.11"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "T123A", 
-    "DDG": "-0.13"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "A129D", 
-    "DDG": "-0.7"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "A129E", 
-    "DDG": "-0.38"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "A129S", 
-    "DDG": "-0.19"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "M133L", 
-    "DDG": "0.30"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "F134L", 
-    "DDG": "-4.78"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "V143A", 
-    "DDG": "-3.5"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "L145Q", 
-    "DDG": "-2.98"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "D148E", 
-    "DDG": "-0.43"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "D148S", 
-    "DDG": "0.22"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "T150P", 
-    "DDG": "-0.08"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "P151S", 
-    "DDG": "-4.49"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "V157F", 
-    "DDG": "-3.88"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Q165K", 
-    "DDG": "-1.27"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Q167E", 
-    "DDG": "-0.43"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "H168R", 
-    "DDG": "-2.75"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R174K", 
-    "DDG": "-0.22"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R175A", 
-    "DDG": "-0.73"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R175H", 
-    "DDG": "-3.52"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "C182S", 
-    "DDG": "0.16"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "I195T", 
-    "DDG": "-4.12"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "L201P", 
-    "DDG": "0.35"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "V203A", 
-    "DDG": "0.49"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "L206S", 
-    "DDG": "-0.1"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Y220C", 
-    "DDG": "-3.98"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "D228E", 
-    "DDG": "0.05"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "I232T", 
-    "DDG": "-3.19"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "Y236F", 
-    "DDG": "0.27"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "M237I", 
-    "DDG": "-3.18"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "N239Y", 
-    "DDG": "1.49"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "C242S", 
-    "DDG": "-3.07"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "G245S", 
-    "DDG": "-1.21"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R248Q", 
-    "DDG": "-1.87"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R249S", 
-    "DDG": "-1.92"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "I255F", 
-    "DDG": "-3.29"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "S260P", 
-    "DDG": "-0.32"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "N268D", 
-    "DDG": "1.21"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "F270C", 
-    "DDG": "-4.54"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R273H", 
-    "DDG": "-0.45"
-  }, 
-  {
-    "CLID": "2AC0A", 
-    "PDB": "2OCJ", 
-    "CHAIN": "A", 
-    "MUT": "R282W", 
-    "DDG": "-3.3"
-  }
+    {
+        "MUT": "Q104H", 
+        "CLID": "2AC0A", 
+        "DDG": 0.24, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "Q104P", 
+        "CLID": "2AC0A", 
+        "DDG": 0.11, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "T123A", 
+        "CLID": "2AC0A", 
+        "DDG": -0.13, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "A129D", 
+        "CLID": "2AC0A", 
+        "DDG": -0.7, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "A129E", 
+        "CLID": "2AC0A", 
+        "DDG": -0.38, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "A129S", 
+        "CLID": "2AC0A", 
+        "DDG": -0.19, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "M133L", 
+        "CLID": "2AC0A", 
+        "DDG": 0.3, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "F134L", 
+        "CLID": "2AC0A", 
+        "DDG": -4.78, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "V143A", 
+        "CLID": "2AC0A", 
+        "DDG": -3.5, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "L145Q", 
+        "CLID": "2AC0A", 
+        "DDG": -2.98, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "D148E", 
+        "CLID": "2AC0A", 
+        "DDG": -0.43, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "D148S", 
+        "CLID": "2AC0A", 
+        "DDG": 0.22, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "T150P", 
+        "CLID": "2AC0A", 
+        "DDG": -0.08, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "P151S", 
+        "CLID": "2AC0A", 
+        "DDG": -4.49, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "V157F", 
+        "CLID": "2AC0A", 
+        "DDG": -3.88, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "Q165K", 
+        "CLID": "2AC0A", 
+        "DDG": -1.27, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "Q167E", 
+        "CLID": "2AC0A", 
+        "DDG": -0.43, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "H168R", 
+        "CLID": "2AC0A", 
+        "DDG": -2.75, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R174K", 
+        "CLID": "2AC0A", 
+        "DDG": -0.22, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R175A", 
+        "CLID": "2AC0A", 
+        "DDG": -0.73, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R175H", 
+        "CLID": "2AC0A", 
+        "DDG": -3.52, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "C182S", 
+        "CLID": "2AC0A", 
+        "DDG": 0.16, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "I195T", 
+        "CLID": "2AC0A", 
+        "DDG": -4.12, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "L201P", 
+        "CLID": "2AC0A", 
+        "DDG": 0.35, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "V203A", 
+        "CLID": "2AC0A", 
+        "DDG": 0.49, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "L206S", 
+        "CLID": "2AC0A", 
+        "DDG": -0.1, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "Y220C", 
+        "CLID": "2AC0A", 
+        "DDG": -3.98, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "D228E", 
+        "CLID": "2AC0A", 
+        "DDG": 0.05, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "I232T", 
+        "CLID": "2AC0A", 
+        "DDG": -3.19, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "Y236F", 
+        "CLID": "2AC0A", 
+        "DDG": 0.27, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "M237I", 
+        "CLID": "2AC0A", 
+        "DDG": -3.18, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "N239Y", 
+        "CLID": "2AC0A", 
+        "DDG": 1.49, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "C242S", 
+        "CLID": "2AC0A", 
+        "DDG": -3.07, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "G245S", 
+        "CLID": "2AC0A", 
+        "DDG": -1.21, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R248Q", 
+        "CLID": "2AC0A", 
+        "DDG": -1.87, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R249S", 
+        "CLID": "2AC0A", 
+        "DDG": -1.92, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "I255F", 
+        "CLID": "2AC0A", 
+        "DDG": -3.29, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "S260P", 
+        "CLID": "2AC0A", 
+        "DDG": -0.32, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "N268D", 
+        "CLID": "2AC0A", 
+        "DDG": 1.21, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "F270C", 
+        "CLID": "2AC0A", 
+        "DDG": -4.54, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R273H", 
+        "CLID": "2AC0A", 
+        "DDG": -0.45, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }, 
+    {
+        "MUT": "R282W", 
+        "CLID": "2AC0A", 
+        "DDG": -3.3, 
+        "PDB": "2OCJ", 
+        "CHAIN": "A"
+    }
 ]
