@@ -247,7 +247,9 @@
 	contains 132 clusters of 545 PDB chains.
 	The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
         <br>
-         For the korpm dataset, proteins are clustered in 129 groups using MMseq with 25% sequence identity cutoff.
+        The file <a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/cluster-129-korpm-pdbchain.txt" target=blank>cluster-129-korpm-pdbchain.txt</a> 
+        contains 129 groups of proteins from the korpm dataset.
+         The clustering is obtained using MMseq with 25% sequence identity cutoff.
 	<br>
 	<br>
 
@@ -267,7 +269,7 @@
 	<br>
         <br>
         <pre style="text-align: justify;">
-        predict-ddg-value.py test_file.txt train_file.txt</pre>
+        ./scripts/predict-ddg-value.py test_file.txt train_file.txt</pre>
 	<br>
 	<p class="text-small" >
 	2. Generate an inputfile containing a two columns representing the PDB chain
@@ -275,12 +277,12 @@
 	The full list of mutations are reported in the file data/unique-mutations-input.txt
      	and example of input file with two input features is 
 	<a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/ifeatures-KYTJ820101-BASU050101.txt" target=blank>ifeatures-KYTJ820101-BASU050101.txt</a>.
-  	Finally run ./test.py input_feature_file.txt to score the performace of your method.
+  	Finally run scripts/test.py input_feature_file.txt to score the performace of your method.
 	For example runs:
 	<br>
         <br>
         <pre style="text-align: justify;">
-	./test.py data/ifeatures-KYTJ820101-BASU050101.txt</pre>
+	./scripts/test.py data/ifeatures-KYTJ820101-BASU050101.txt</pre>
   <br>
   <br>
   <br>
