@@ -21,7 +21,8 @@ The protddg-bench repository includes the following datasets:
               energy (DDG) was calculated changing the sign of the DDG reported in literarture.
               Data from PMID:26054434.
 5. P53:       42 variants from P53 structure 2OCJ. Data from PMID:24281696.
-6. KORPM:     2,371 mutations from 129 protein families with sequence identity <25%.
+6. KORPM:     2,371 mutations from 129 protein families with sequence identity <25%
+              and testing set of 461 variants. 
               PMID:36629451.
 7. PTMUL:     914 multiple site variants from 91 protein structures and 77 clusters.
               PMID:31266447.
