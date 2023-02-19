@@ -72,6 +72,7 @@
 	    <li role="presentation" ><a href="/broom">Broom</a></li>
 	    <li role="presentation" ><a href="/myoglobin">Myoglobin</a></li>
 	    <li role="presentation" ><a href="/p53">P53</a></li>
+            <li role="presentation" ><a href="/korpm">KORPM</a></li>
 	    <li role="presentation" ><a href="/ptmul">PTMUL</a></li>
             <li role="presentation" ><a href="https://github.com/protddg-bench/protddg-bench">GitHub</a></li>
           </ul>
@@ -134,6 +135,13 @@
 		42 variants from P53 structure 2OCJ. Data from 
 		<a href="https://pubmed.ncbi.nlm.nih.gov/24281696" target=blank>PMID:24281696</a>.
 		</li>
+                <li>
+                <p class="text-small" >
+                <a href="/korpm">KORPM</a>:
+                2,371 mutations from 129 protein famileis with sequence identity <25%.
+                Data from
+                <a href="https://pubmed.ncbi.nlm.nih.gov/36629451" target=blank>PMID:36629451</a>.
+                </li>
 		<li>
 		<p class="text-small" >
    		<a href="/ptmul">PTMUL</a>:     
@@ -203,12 +211,25 @@
         Training: train-s2648-test-p53.tsv        (2643) -> Test: p53.tsv</pre>
 	<br>
 
+	<p class="text-small" >
+        The directory KORPM contains 10 files for 10-folds cross-validation tests. 
+        Furtermore it contains 2 training and 2 testing files. The testing file are 
+        Ssym and S461.
+        The tests on this dataset can be performed as follow:
+        <br>
+        <br>
+        <pre style="text-align: justify;">
+         Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
+         Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
+         Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv
+        <br>
+
         <p class="text-small" >
-	This directory contains files for testing predictions on multiple site mutations starting from
-	a training on a set single point mutations.
-  	The directory PTMUL contains a 5-fold split of the PTMUL dataset. Given the numeber of mutations
-  	mutations form the same cluster the set has been diveded in 5 subsets.
-  	The test on this dataset can be performed as follow:
+       The directory PTMUL contains files for testing predictions on multiple site mutations starting from
+       a training on a set single point mutations.
+       The directory also includes a 5-fold split of the PTMUL dataset. Given the number of mutations
+       mutations form the same cluster the set has been diveded in 5 subsets.
+       The test on this dataset can be performed as follow:
 	<br>
         <br>
 	<pre style="text-align: justify;">
