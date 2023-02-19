@@ -94,8 +94,9 @@ The protddg-bench repository includes the following datasets:
 
 The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains. 
 The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
-For the korpm dataset proteins are clustered in 129 groups using MMseq with 25%
-sequence identity cutoff.
+
+The file data/cluster-129-korpm-pdbchain.txt contains 129 groups of proteins from the korpm dataset. 
+the clustering is obtained using MMseq with 25% sequence identity cutoff.
 
 
 ### Testing
@@ -106,14 +107,14 @@ To test your method you need to:
      the experimental and the predicted ddgs respectively
      The program runs as follows:
 
-         ./predict-ddg-value.py test_file.txt train_file.txt
+         ./scripts/predict-ddg-value.py test_file.txt train_file.txt
 
   2. Generate an inputfile containing a two columns representing the PDB chain 
      identifier and the mutation followed by all the inputfeatures.
      The full list of mutations are reported in the file data/unique-mutations-input.txt
      and example of input file with two input features is data/ifeatures-KYTJ820101-BASU050101.txt.
      
-  Finally run ./test.py input_feature_file.txt to score the performace of your method.
+  Finally run scripts/test.py input_feature_file.txt to score the performace of your method.
   For example runs:
 
-         ./test.py data/ifeatures-KYTJ820101-BASU050101.txt
+         ./scripts/test.py ./data/ifeatures-KYTJ820101-BASU050101.txt
