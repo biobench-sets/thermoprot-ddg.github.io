@@ -96,7 +96,7 @@ The file data/cluster-545-pdbchains.txt contains 132 clusters of 545 PDB chains.
 The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
 
 The file data/cluster-129-korpm-pdbchain.txt contains 129 groups of proteins from the korpm dataset. 
-the clustering is obtained using MMseq with 25% sequence identity cutoff.
+The clustering is obtained using MMseq with 25% sequence identity cutoff.
 
 
 ### Testing
