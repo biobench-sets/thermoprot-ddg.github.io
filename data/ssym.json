@@ -335,7 +335,7 @@
         "PDB": "1BNI",
         "CHAIN": "A",
         "MUT": "I96A",
-        "DDG": -0.9,
+        "DDG": -3.2,
         "pH": 6.3,
         "T": 25.0,
         "DIR/INV": "DIR"
@@ -346,7 +346,7 @@
         "PDB": "1BRK",
         "CHAIN": "A",
         "MUT": "A96I",
-        "DDG": 0.9,
+        "DDG": 3.2,
         "pH": 6.3,
         "T": 25.0,
         "DIR/INV": "INV"
@@ -357,7 +357,7 @@
         "PDB": "1BNI",
         "CHAIN": "A",
         "MUT": "I96V",
-        "DDG": -3.1,
+        "DDG": -0.9,
         "pH": 6.3,
         "T": 25.0,
         "DIR/INV": "DIR"
@@ -368,7 +368,7 @@
         "PDB": "1BSD",
         "CHAIN": "A",
         "MUT": "V96I",
-        "DDG": 3.1,
+        "DDG": 0.9,
         "pH": 6.3,
         "T": 25.0,
         "DIR/INV": "INV"
