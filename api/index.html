@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Static API Example</title>
+  </head>
+  <body>
+    <div id="data"></div>
+
+    <script>
+      // Use fetch() to retrieve the data
+      fetch('/data.json')
+        .then(response => response.json())
+        .then(data => {
+          // Use the data to populate the UI
+          const dataDiv = document.getElementById('data');
+          dataDiv.innerHTML = JSON.stringify(data);
+        });
+    </script>
+  </body>
+</html>
