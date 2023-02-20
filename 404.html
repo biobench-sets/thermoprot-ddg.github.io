@@ -72,6 +72,7 @@
 	    <li role="presentation" ><a href="/broom">Broom</a></li>
 	    <li role="presentation" ><a href="/myoglobin">Myoglobin</a></li>
 	    <li role="presentation" ><a href="/p53">P53</a></li>
+            <li role="presentation" ><a href="/korpm">KORPM</a></li>
 	    <li role="presentation" ><a href="/ptmul">PTMUL</a></li>
             <li role="presentation" ><a href="https://github.com/protddg-bench/protddg-bench">GitHub</a></li>
           </ul>
@@ -111,7 +112,9 @@
 		<p class="text-small" >
                 <a href="/ssym">Ssym</a>:      
                 634 variants from 357 structures corresponding to 13 clusters.
-                Dataset composed by 342 mutations and their reverse. Data from 
+                Dataset composed by 342 mutations and their reverse. From the original publication, 
+                the data of few mutants have been corrected.
+                Original data from 
 		<a href="https://pubmed.ncbi.nlm.nih.gov/29718106" target=blank>PMID:29718106</a>.
 		</li>
    		<li>
@@ -134,6 +137,14 @@
 		42 variants from P53 structure 2OCJ. Data from 
 		<a href="https://pubmed.ncbi.nlm.nih.gov/24281696" target=blank>PMID:24281696</a>.
 		</li>
+                <li>
+                <p class="text-small" >
+                <a href="/korpm">KORPM</a>:
+                2,371 mutations from 129 protein families with sequence identity <25% 
+                and testing set of 461 variants.
+                Data from
+                <a href="https://pubmed.ncbi.nlm.nih.gov/36629451" target=blank>PMID:36629451</a>.
+                </li>
 		<li>
 		<p class="text-small" >
    		<a href="/ptmul">PTMUL</a>:     
@@ -203,12 +214,25 @@
         Training: train-s2648-test-p53.tsv        (2643) -> Test: p53.tsv</pre>
 	<br>
 
+	<p class="text-small" >
+        The directory KORPM contains 10 files for 10-folds cross-validation tests. 
+        Furtermore it contains 2 training and 2 testing files. The testing files are 
+        Ssym and S461.
+        The tests on this dataset can be performed as follow:
+        <br>
+        <br>
+        <pre style="text-align: justify;">
+         Training: not SET_i korpm-10fold-split-j.tsv -> Test: SET_i korpm-10fold-split-j.tsv
+         Training: not Ssym  train-korpm-nossym.tsv  (1,807) -> Test: ssym-korpm.tsv
+         Training: not S461  train-korpm-nos461.tsv  (2,224) -> Test: s461-korpm.tsv</pre>
+        <br>
+
         <p class="text-small" >
-	This directory contains files for testing predictions on multiple site mutations starting from
-	a training on a set single point mutations.
-  	The directory PTMUL contains a 5-fold split of the PTMUL dataset. Given the numeber of mutations
-  	mutations form the same cluster the set has been diveded in 5 subsets.
-  	The test on this dataset can be performed as follow:
+       The directory PTMUL contains files for testing predictions on multiple site mutations starting from
+       a training on a set single point mutations.
+       The directory also includes a 5-fold split of the PTMUL dataset. Given the number of mutations
+       mutations form the same cluster the set has been diveded in 5 subsets.
+       The test on this dataset can be performed as follow:
 	<br>
         <br>
 	<pre style="text-align: justify;">
@@ -224,6 +248,10 @@
 	The file <a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/cluster-545-pdbchains.txt" target=blank>cluster-545-pdbchains.txt</a> 
 	contains 132 clusters of 545 PDB chains.
 	The clustering is obtained using blastclust with the options -S 25 -L 0.5 -b F.
+        <br>
+        The file <a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/cluster-129-korpm-pdbchain.txt" target=blank>cluster-129-korpm-pdbchain.txt</a> 
+        contains 129 groups of proteins from the korpm dataset.
+         The clustering is obtained using MMseq with 25% sequence identity cutoff.
 	<br>
 	<br>
 
@@ -243,7 +271,7 @@
 	<br>
         <br>
         <pre style="text-align: justify;">
-        predict-ddg-value.py test_file.txt train_file.txt</pre>
+        ./scripts/predict-ddg-value.py test_file.txt train_file.txt</pre>
 	<br>
 	<p class="text-small" >
 	2. Generate an inputfile containing a two columns representing the PDB chain
@@ -251,12 +279,12 @@
 	The full list of mutations are reported in the file data/unique-mutations-input.txt
      	and example of input file with two input features is 
 	<a href="https://github.com/protddg-bench/protddg-bench/blob/master/data/ifeatures-KYTJ820101-BASU050101.txt" target=blank>ifeatures-KYTJ820101-BASU050101.txt</a>.
-  	Finally run ./test.py input_feature_file.txt to score the performace of your method.
+  	Finally run scripts/test.py input_feature_file.txt to score the performace of your method.
 	For example runs:
 	<br>
         <br>
         <pre style="text-align: justify;">
-	./test.py data/ifeatures-KYTJ820101-BASU050101.txt</pre>
+	./scripts/test.py data/ifeatures-KYTJ820101-BASU050101.txt</pre>
   <br>
   <br>
   <br>
