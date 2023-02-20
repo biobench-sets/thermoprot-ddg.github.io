@@ -14,7 +14,7 @@
         .then(data => {
           // Use the data to populate the UI
           const dataDiv = document.getElementById('data');
-          dataDiv.innerHTML = JSON.stringify(data);
+          dataDiv.innerHTML = JSON.stringify(data, null, 2);
         });
     </script>
   </body>
