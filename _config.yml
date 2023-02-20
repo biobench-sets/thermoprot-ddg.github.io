@@ -1,0 +1,23 @@
+# _config.yml file for a Jekyll site that allows symbolic links
+ safe: false
+ include:
+   - .htaccess
+   - _data
+   - _includes
+   - _layouts
+   - _posts
+   - _site
+   - index.md
+   - _symlinked_dir # Include the directory containing symbolic links
+ exclude:
+   - Gemfile
+   - Gemfile.lock
+   - vendor
+   - node_modules
+   - .sass-cache
+   - _symlinked_dir/target_file.txt # Exclude the target file of the symbolic link
+ unpublished: false
+ keep_files:
+   - CNAME
+   - favicon.ico
+   - robots.txt
